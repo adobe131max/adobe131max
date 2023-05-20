@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBE6F7&center=true&vCenter=true&width=435&lines=Never+say+die" alt="Typing SVG" /></a>
+</p>
+
 - 🔭 I am a sophomore in Wuhan University
 - 🌱 I’m currently learning Spring
 - 😄 My goal is to become tech-savvy
@@ -9,6 +13,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adobe131max&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adobe131max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=adobe131max&show_icons=true&theme=tokyonight" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adobe131max&layout=compact&langs_count=8&theme=tokyonight" />
+<span>  </span>
+</div>
