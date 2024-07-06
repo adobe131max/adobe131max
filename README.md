@@ -22,5 +22,3 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adobe131max&layout=compact&langs_count=8&theme=tokyonight" />
 <span>  </span>
 </div> -->
-
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adobe131max&layout=compact&langs_count=8&theme=tokyonight" />
